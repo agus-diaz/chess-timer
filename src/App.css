@@ -1,0 +1,15 @@
+/* App.css */
+.App {
+    text-align: center;
+    background-color: #f8f9fa;
+  }
+  
+  .App-header {
+    background-color: #1b4332;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  h1 {
+    margin: 0;
+  }
